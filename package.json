@@ -14,7 +14,7 @@
   },
   "dependencies": {
     "@dcloudio/uni-ui": "^1.1.5",
-    "moment": "^2.24.0",
+    "moment": "^2.29.2",
     "vue-json-excel": "^0.2.98"
   }
 }
